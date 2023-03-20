@@ -1,2 +1,0 @@
-# smaple
-A sample repo
